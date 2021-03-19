@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tifani Husna Siregar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Waseda University
+  url: https://www.waseda.jp/fpse/gse/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include topics in labor economics, particularly minimum wages and it's impact on labor market outcomes.
 
 # Interests to show in About widget
 interests:
@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: Waseda University
+    year: On-going
+  - course: Master of Arts in Economics
+    institution: Waseda University
+    year: 2014
+  - course: Bachelor in Economics and Development Studies
+    institution: Bogor Agricultural University
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,11 +67,9 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hello! I am Tifani Husna Siregar. I am currently a doctoral student at the Graduate School of Economics, Waseda University, Japan. My research focuses on the impacts of minimum wages on the Indonesian labor market. Before embarking on my PhD journey, I worked as an analyst at the Bank of Tokyo-Mitsubishi UFJ, now known as MUFG Bank, in Jakarta. My work there ranged from analyzing companies' financial statements, researching trends in various industries, as well as writing and presenting reports on the Indonesian macroeconomic conditions. Now, other than writing my dissertation, I am also working as an academic writing tutor at Waseda University's writing center. Furthermore, I am also in charge of daily communication and relationship between Accept International, which is an NGO focusing on counter-terrorism, with our Indonesian counterparts. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
