@@ -16,11 +16,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include topics in labor economics, particularly minimum wages and it's impact on labor market outcomes.
 
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# Experience to show in About widget
+Work experience:
+- 2020 - current: Tutor - Writing Center, Waseda University
+- 2020- current: Indonesian team - Accept International, Japan
+- 2014 - 2016 : Analyst - MUFG Bank, Jakarta
 
 # Education to show in About widget
 education:
