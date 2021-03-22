@@ -31,6 +31,9 @@ education:
   - course: Master of Arts in Economics
     institution: Waseda University
     year: 2014
+  - course: Japanese Language
+    institution: Tokyo Japanese Language Education Center
+    year: 2012  
   - course: Bachelor in Economics and Development Studies
     institution: Bogor Agricultural University
     year: 2010
