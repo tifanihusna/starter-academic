@@ -42,17 +42,17 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2019-09-01"
-  description: ""
+  description: "Effort Award, Essay Competition"
   organization: FALIA 
   organization_url: https://www.falia.or.jp/j_essay_conpetition.html/
-  title: "Effort Award. Essay Title: Should Life Insurance Companies be More Social? An Analysis of the Impact of Social Media Usage on the Performance of Indonesian Life Insurance Companies"
+  title: "Should Life Insurance Companies be More Social? An Analysis of the Impact of Social Media Usage on the Performance of Indonesian Life Insurance Companies"
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2017-09-01"
-  description: ""
+  description: "First Place, Essay Competition"
   organization: FALIA 
   organization_url: https://www.falia.or.jp/j_essay_conpetition.html/
-  title: "First Place. Essay Title: The Indonesian Life Insurance Industry: Untapped Potential in the Sharia Based Life Insurance Market"
+  title: "The Indonesian Life Insurance Industry: Untapped Potential in the Sharia Based Life Insurance Market"
   url: https://www.falia.or.jp/assets/pdf/2017/2017summary1.pdf/
 ---
