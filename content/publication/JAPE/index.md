@@ -7,11 +7,7 @@ title: "Impacts of minimum wages on employment and unemployment in Indonesia"
 authors:
 - admin
 
-# Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
-
+# date
 date: "2020-07-01"
 doi: ""
 
