@@ -37,7 +37,7 @@ item:
   description: ""
   organization: edX
   organization_url: https://www.edx.org
-  title: Data Science: R Basics
+  title: "Data Science: R Basics"
   url: https://www.edx.org/course/data-science-r-basics
 - certificate_url: ""
   date_end: ""
@@ -45,7 +45,7 @@ item:
   description: ""
   organization: FALIA 
   organization_url: https://www.falia.or.jp/j_essay_conpetition.html/
-  title: 'Effort Award. Essay Title: "Should Life Insurance Companies be More Social? An Analysis of the Impact of Social Media Usage on the Performance of Indonesian Life Insurance Companies"'
+  title: "Effort Award. Essay Title: Should Life Insurance Companies be More Social? An Analysis of the Impact of Social Media Usage on the Performance of Indonesian Life Insurance Companies"
   url: ""
 - certificate_url: ""
   date_end: ""
@@ -53,6 +53,6 @@ item:
   description: ""
   organization: FALIA 
   organization_url: https://www.falia.or.jp/j_essay_conpetition.html/
-  title: 'First Place. Essay Title: "The Indonesian Life Insurance Industry: Untapped Potential in the Sharia Based Life Insurance Market"'
+  title: "First Place. Essay Title: The Indonesian Life Insurance Industry: Untapped Potential in the Sharia Based Life Insurance Market"
   url: https://www.falia.or.jp/assets/pdf/2017/2017summary1.pdf/
 ---
