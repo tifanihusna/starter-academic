@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Waseda University
-    year: Current
+    year: Present
   - course: Master of Arts in Economics
     institution: Waseda University
     year: 2014
