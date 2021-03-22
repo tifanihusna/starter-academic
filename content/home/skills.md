@@ -21,8 +21,8 @@ feature:
   icon_pack: fab
   name: R
 - description: 
-  icon: 
-  icon_pack: 
+  icon: stata
+  icon_pack: fab
   name: Stata
 - description: Fluent
   icon: ":speech_balloon:"
