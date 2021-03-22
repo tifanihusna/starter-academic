@@ -28,7 +28,7 @@ feature:
   icon: ":speech_balloon:"
   icon_pack: "emoji"
   name: English
-- description: Daily conversation level 
+- description: Intermediate
   icon: ":speech_balloon:"
   icon_pack: "emoji"
   name: Japanese
