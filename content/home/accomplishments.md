@@ -23,28 +23,35 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2020-07"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Essex University
+  organization_url: https://essexsummerschool.com/
+  title: 'Spatial Econometrics Course'
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  date_start: "2020-04"
+  description: " "
   organization: edX
   organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  title: 'Data Science: R Basics'
+  url: https://www.edx.org/course/data-science-r-basics
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  organization: FALIA 
+  organization_url: https://www.falia.or.jp/j_essay_conpetition.html
+  title: 'Effort Award. Essay Title: "Should Life Insurance Companies be More Social? An Analysis of the Impact of Social Media Usage on the Performance of Indonesian Life Insurance Companies"'
+- url: ""
+  date_end: ""
+  date_start: "2017"
+  description: ""
+  organization: FALIA 
+  organization_url: https://www.falia.or.jp/j_essay_conpetition.html
+  title: 'First Place. Essay Title: "The Indonesian Life Insurance Industry: Untapped Potential in the Sharia Based Life Insurance Market"'
+  summary: https://www.falia.or.jp/assets/pdf/2017/2017summary1.pdf
 ---
