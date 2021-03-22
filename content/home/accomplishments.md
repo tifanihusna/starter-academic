@@ -42,17 +42,33 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2019-09-01"
-  description: "Effort Award, Essay Competition"
+  description: "Should Life Insurance Companies be More Social? An Analysis of the Impact of Social Media Usage on the Performance of Indonesian Life Insurance Companie"
   organization: FALIA 
   organization_url: https://www.falia.or.jp/j_essay_conpetition.html/
-  title: "Should Life Insurance Companies be More Social? An Analysis of the Impact of Social Media Usage on the Performance of Indonesian Life Insurance Companies"
+  title: "sEffort Award, Essay Competition"
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2017-09-01"
-  description: "First Place, Essay Competition"
+  description: "The Indonesian Life Insurance Industry: Untapped Potential in the Sharia Based Life Insurance Market"
   organization: FALIA 
   organization_url: https://www.falia.or.jp/j_essay_conpetition.html/
-  title: "The Indonesian Life Insurance Industry: Untapped Potential in the Sharia Based Life Insurance Market"
+  title: "First Place, Essay Competition"
   url: https://www.falia.or.jp/assets/pdf/2017/2017summary1.pdf/
+- certificate_url: ""
+  date_end: "2020-03-31"
+  date_start: "2017-04-01"
+  description: "Scholarship"
+  organization: Waseda University 
+  organization_url: 
+  title: "Young Doctoral Student Scholarship"
+  url: https://www.waseda.jp/inst/scholarship/en/doctoral/
+- certificate_url: ""
+  date_end: "2014-03-31"
+  date_start: "2011-04-01"
+  description: "Scholarship"
+  organization: Okazaki Kaheita International Student Scholarship Foundation 
+  organization_url: 
+  title: "Okazaki Kaheita International Student Scholarship"
+  url: https://okazakizaidan.or.jp/en/top/
 ---
