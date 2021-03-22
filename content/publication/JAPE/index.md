@@ -23,6 +23,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of the Asia Pacific Economy*
 publication_short: In *Journal of the Asia Pacific Economy*
+url: https://www.tandfonline.com/doi/full/10.1080/13547860.2019.1625585
 
 abstract: This study explores the impact of minimum wages on employment in the formal and informal sectors, as well as on unemployment in Indonesia. With the ongoing debate on the employment impact of minimum wages, by using aggregate provincial panel data from 2001 to 2015, we found that in general, a minimum wage increase lowers formal sector employment and informal sector employment. An increase in minimum wages is also estimated to lower unemployment, as labor participation declined. When divided by gender, this study shows that female workers in the 15–24 age groups bear the largest loss due to a minimum wage increase.
 
