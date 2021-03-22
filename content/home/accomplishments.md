@@ -42,10 +42,10 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2019-09-01"
-  description: "Essay Title: Should Life Insurance Companies be More Social? An Analysis of the Impact of Social Media Usage on the Performance of Indonesian Life Insurance Companie"
+  description: "Essay Title: Should Life Insurance Companies be More Social? An Analysis of the Impact of Social Media Usage on the Performance of Indonesian Life Insurance Companies"
   organization: FALIA 
   organization_url: https://www.falia.or.jp/j_essay_conpetition.html/
-  title: "sEffort Award, Essay Competition"
+  title: "Effort Award, Essay Competition"
   url: ""
 - certificate_url: ""
   date_end: ""
@@ -58,7 +58,7 @@ item:
 - certificate_url: ""
   date_end: "2020-03-31"
   date_start: "2017-04-01"
-  description: "Scholarship"
+  description: "Awarded this scholarship for 3 years"
   organization: Waseda University 
   organization_url: 
   title: "Young Doctoral Student Scholarship"
@@ -66,7 +66,7 @@ item:
 - certificate_url: ""
   date_end: "2014-03-31"
   date_start: "2011-04-01"
-  description: "Scholarship"
+  description: "Awarded this scholarship for 1 year intensive Japanese language course and 2 years master's degree course"
   organization: Okazaki Kaheita International Student Scholarship Foundation 
   organization_url: 
   title: "Okazaki Kaheita International Student Scholarship"
