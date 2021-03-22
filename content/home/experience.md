@@ -27,7 +27,7 @@ experience:
     company_url: 'https://accept-int.org/en/'
     location: Tokyo, Japan
     date_start: '2019-06-01'
-    date_end: 'current'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
@@ -40,7 +40,7 @@ experience:
     company_url: 'https://www.waseda.jp/inst/aw/en/about/what'
     location: Tokyo, Japan
     date_start: '2019-09-01'
-    date_end: 'current'
+    date_end: ''
     description: Academic writing tutor.
     
     
