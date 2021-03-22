@@ -42,7 +42,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2019-09-01"
-  description: "Should Life Insurance Companies be More Social? An Analysis of the Impact of Social Media Usage on the Performance of Indonesian Life Insurance Companie"
+  description: "Essay Title: Should Life Insurance Companies be More Social? An Analysis of the Impact of Social Media Usage on the Performance of Indonesian Life Insurance Companie"
   organization: FALIA 
   organization_url: https://www.falia.or.jp/j_essay_conpetition.html/
   title: "sEffort Award, Essay Competition"
@@ -50,7 +50,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2017-09-01"
-  description: "The Indonesian Life Insurance Industry: Untapped Potential in the Sharia Based Life Insurance Market"
+  description: "Essay Title: The Indonesian Life Insurance Industry: Untapped Potential in the Sharia Based Life Insurance Market"
   organization: FALIA 
   organization_url: https://www.falia.or.jp/j_essay_conpetition.html/
   title: "First Place, Essay Competition"
