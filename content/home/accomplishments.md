@@ -45,7 +45,7 @@ item:
   description: "Essay Title: Should Life Insurance Companies be More Social? An Analysis of the Impact of Social Media Usage on the Performance of Indonesian Life Insurance Companies"
   organization: FALIA 
   organization_url: https://www.falia.or.jp/j_essay_conpetition.html/
-  title: "Effort Award, Essay Competition"
+  title: "Finalist, Essay Competition"
   url: ""
 - certificate_url: ""
   date_end: ""
