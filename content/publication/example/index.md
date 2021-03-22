@@ -1,4 +1,7 @@
 ---
+# active
+active: false
+
 title: "An example conference paper"
 
 # Authors
@@ -8,8 +11,6 @@ authors:
 - admin
 - Robert Ford
 
-# active
-active: false
 
 # Author notes (optional)
 author_notes:
