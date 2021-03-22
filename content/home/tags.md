@@ -1,5 +1,9 @@
 ---
 # An instance of the Tag Cloud widget.
+
+# active
+active: false
+
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
 
