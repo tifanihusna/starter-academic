@@ -29,7 +29,7 @@ abstract: This study explores the impact of minimum wages on employment in the f
 
 # Custom links (uncomment lines below)
 links:
-- name: Custom Link
+- name: Link
   url: 'https://www.tandfonline.com/doi/full/10.1080/13547860.2019.1625585'
 
 ---
