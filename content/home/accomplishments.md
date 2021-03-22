@@ -28,7 +28,7 @@ item:
   date_start: "2020-07"
   description: ""
   organization: Essex University
-  organization_url: https://essexsummerschool.com/
+  organization_url: https://essexsummerschool.com
   title: Spatial Econometrics Course
   url: ""
 - certificate_url: ""
@@ -36,9 +36,9 @@ item:
   date_start: "2020-04"
   description: ""
   organization: edX
-  organization_url: https://www.edx.org/
+  organization_url: https://www.edx.org
   title: Data Science: R Basics
-  url: https://www.edx.org/course/data-science-r-basics/
+  url: https://www.edx.org/course/data-science-r-basics
 - certificate_url: ""
   date_end: ""
   date_start: "2019"
@@ -46,12 +46,13 @@ item:
   organization: FALIA 
   organization_url: https://www.falia.or.jp/j_essay_conpetition.html/
   title: 'Effort Award. Essay Title: "Should Life Insurance Companies be More Social? An Analysis of the Impact of Social Media Usage on the Performance of Indonesian Life Insurance Companies"'
-- url: ""
+  url: ""
+- certificate_url: ""
   date_end: ""
   date_start: "2017"
   description: ""
   organization: FALIA 
   organization_url: https://www.falia.or.jp/j_essay_conpetition.html/
   title: 'First Place. Essay Title: "The Indonesian Life Insurance Industry: Untapped Potential in the Sharia Based Life Insurance Market"'
-  summary: https://www.falia.or.jp/assets/pdf/2017/2017summary1.pdf/
+  url: https://www.falia.or.jp/assets/pdf/2017/2017summary1.pdf/
 ---
