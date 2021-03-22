@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Accomplishments
     url: '#accomplishments'
-    weight: 20
+    weight: 30
   #- name: Projects
     #url: '#projects'
     #weight: 30
@@ -18,7 +18,7 @@ main:
     #weight: 40
   - name: Publications
     url: '#publications'
-    weight: 30
+    weight: 20
   - name: Media
     url: '#media'
     weight: 40
