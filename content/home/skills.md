@@ -25,13 +25,17 @@ feature:
   icon_pack: 
   name: Stata
 - description: Fluent
-  icon: 
-  icon_pack: 
+  icon: ":speech_balloon:"
+  icon_pack: "emoji"
   name: English
 - description: Daily conversation level 
-  icon: 
-  icon_pack: 
+  icon: ":speech_balloon:"
+  icon_pack: "emoji"
   name: Japanese
+- description: Native 
+  icon: ":speech_balloon:"
+  icon_pack: "emoji"
+  name: Indonesian
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
