@@ -3,9 +3,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: media
 
+# This file represents a page section.
+headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Media'
@@ -27,7 +29,7 @@ item:
   description: ""
   organization: "The Conversation Indonesia"
   organization_url: ""
-  title: #Efektifkah Upah Minimum dalam Melindungi Pekerja?"
+  title: "Efektifkah Upah Minimum dalam Melindungi Pekerja?"
   url: https://theconversation.com/efektifkah-kenaikan-upah-minimum-dalam-melindungi-pekerja-137407
 - certificate_url: ""
   date_end: ""
@@ -43,7 +45,7 @@ item:
   description: ""
   organization: "The Conversation Indonesia" 
   organization_url: ""
-  title: ""How the COVID-19 pandemic will leave more young people unemployed in Indonesia""
-  url: "https://theconversation.com/how-the-covid-19-pandemic-will-leave-more-young-people-unemployed-in-indonesia-141781"
+  title: "How the COVID-19 pandemic will leave more young people unemployed in Indonesia"
+  url: https://theconversation.com/how-the-covid-19-pandemic-will-leave-more-young-people-unemployed-in-indonesia-141781
 
 ---
