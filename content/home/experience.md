@@ -32,7 +32,7 @@ experience:
         Responsibilities include:
         
         * PIC of daily communication with Indonesian counterparts (ex-convicted terrorists, government officials, NGOs, etc.)
-        * Translation (Indonesian-English, English-Indonesian)
+        * Translation (Indonesian-English and vice versa)
         
         
   - title: Tutor
@@ -74,10 +74,11 @@ experience:
     location: Bogor, Indonesia
     date_start: '2009-08-01'
     date_end: '2011-02-30'
-    description: Responsibilities include:
+    description: |2- 
+        Responsibilities include:
         
         * Data collection and analysis
         * Report writing
-        * Translation (Indonesian-English, English-Indonesian)
+        * Translation (Indonesian-English and vice versa)
     
 ---
