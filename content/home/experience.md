@@ -64,7 +64,7 @@ experience:
     company_url: 'http://www.sdigrp.com/en/'
     location: Tokyo, Japan
     date_start: '2014-02-01'
-    date_end: '2014-03-01'
+    date_end: '2014-03-31'
     description: Internet research and phone survey to companies located in Indonesia.
     
     
@@ -73,7 +73,7 @@ experience:
     company_url: 'https://fem.ipb.ac.id/'
     location: Bogor, Indonesia
     date_start: '2009-08-01'
-    date_end: '2011-02-30'
+    date_end: '2011-02-20'
     description: |2- 
         Responsibilities include:
         
