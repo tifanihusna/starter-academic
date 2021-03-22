@@ -25,7 +25,7 @@ item:
   date_end: ""
   date_start: "2020-05-01"
   description: ""
-  organization: The Conversation Indonesia
+  organization: "The Conversation Indonesia"
   organization_url: ""
   title: #Efektifkah Upah Minimum dalam Melindungi Pekerja?"
   url: https://theconversation.com/efektifkah-kenaikan-upah-minimum-dalam-melindungi-pekerja-137407
@@ -33,7 +33,7 @@ item:
   date_end: ""
   date_start: "2020-07-01"
   description: ""
-  organization: The Conversation Indonesia
+  organization: "The Conversation Indonesia"
   organization_url: ""
   title: "Bagaimana COVID-19 Akan Menghasilkan Lebih Banyak Pengangguran di Indonesia"
   url: https://theconversation.com/bagaimana-covid-19-akan-menghasilkan-lebih-banyak-pengangguran-muda-di-indonesia-141981
@@ -41,9 +41,9 @@ item:
   date_end: ""
   date_start: "2020-07-01"
   description: ""
-  organization: The Conversation Indonesia 
-  organization_url: https://theconversation.com/how-the-covid-19-pandemic-will-leave-more-young-people-unemployed-in-indonesia-141781
+  organization: "The Conversation Indonesia" 
+  organization_url: ""
   title: ""How the COVID-19 pandemic will leave more young people unemployed in Indonesia""
-  url: ""
+  url: "https://theconversation.com/how-the-covid-19-pandemic-will-leave-more-young-people-unemployed-in-indonesia-141781"
 
 ---
