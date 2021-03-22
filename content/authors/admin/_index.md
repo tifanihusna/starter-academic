@@ -65,9 +65,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+ # - icon: cv
+   # icon_pack: ai
+   # link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
@@ -77,5 +77,3 @@ highlight_name: true
 ---
 
 Hello! I am Tifani Husna Siregar. I am currently a doctoral student at the Graduate School of Economics, Waseda University, Japan. My research focuses on the impacts of minimum wages on the Indonesian labor market. Before embarking on my PhD journey, I worked as an analyst at the Bank of Tokyo-Mitsubishi UFJ, now known as MUFG Bank, in Jakarta. My work there ranged from analyzing companies' financial statements, researching trends in various industries, as well as writing and presenting reports on the Indonesian macroeconomic conditions. Now, other than writing my dissertation, I am also working as an academic writing tutor at Waseda University's writing center. Furthermore, I am also in charge of daily communication and relationship between Accept International, an NGO focusing on counter-terrorism and deradicalization, with our Indonesian counterparts. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
