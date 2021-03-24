@@ -54,7 +54,7 @@ item:
   organization: FALIA 
   organization_url: https://www.falia.or.jp/j_essay_conpetition.html/
   title: "First Place, Essay Competition"
-  url: https://www.falia.or.jp/assets/pdf/2017/2017summary1.pdf/
+  url: https://www.falia.or.jp/assets/pdf/2017/2017summary1.pdf
 - certificate_url: ""
   date_end: "2020-03-31"
   date_start: "2017-04-01"
