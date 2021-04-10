@@ -37,5 +37,5 @@ links:
   - name: Accepted Manuscript
     url: 'https://drive.google.com/file/d/1iSBBSU4GbBFqiE0n_lbWbEa_bqoWxL_e/view?usp=sharing'
   - name: Link
-    url: 'https://www-tandfonline-com.ez.wul.waseda.ac.jp/doi/full/10.1080/00074918.2021.1914817?src='
+    url: 'https://www.tandfonline.com/doi/full/10.1080/00074918.2021.1914817'
 ---
