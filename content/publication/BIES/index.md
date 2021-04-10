@@ -35,5 +35,5 @@ featured: true
 # Accepted Manuscript
 links:
   - name: Accepted Manuscript
-    url: 'https://github.com/tifanihusna/starter-academic/blob/master/content/publication/BIES/%5BAccepted%20Manuscript%5D%20Investigating%20the%20Effects%20of%20Minimum%20Wages%20on%20Employment%20and%20Unemployment%20in%20Java%20Indonesia.pdf'
+    url: 'https://drive.google.com/file/d/1i7-_QfLtklAUYKAT7NEPMBIO3jd3SA1x/view?usp=sharing'
 ---
