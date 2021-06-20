@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Graduate School of Economics, Waseda University
-    company_url: 'https://www.waseda.jp/fpse/gse/en/about/'
+    company_url: 'https://www.waseda.jp/fpse/gse/en/'
     location: Tokyo, Japan
     date_start: '2021-05-24'
     date_end: ''
