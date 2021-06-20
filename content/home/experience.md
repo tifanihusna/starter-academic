@@ -24,11 +24,13 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Graduate School of Economics, Waseda University
-    company_url: 'https://www.waseda.jp/fpse/gse/en/'
+    company_url: 
     location: Tokyo, Japan
     date_start: '2021-05-24'
     date_end: ''
-    description: Research assistant: data collection. Responsibilites will grow as the research progresses.
+    description: |2-
+        Research assistant: 
+        * Data collection. Responsibilites will grow as the research progresses.
     
   - title: Tutor
     company: Waseda University
