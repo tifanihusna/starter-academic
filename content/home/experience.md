@@ -22,19 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Part-time
-    company: Accept International 
-    company_url: 'https://accept-int.org/en/'
+  - title: Research Assistant
+    company: Graduate School of Economics, Waseda University
+    company_url: 'https://www.waseda.jp/fpse/gse/en/about/'
     location: Tokyo, Japan
-    date_start: '2020-06-01'
+    date_start: '2021-05-24'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * PIC of daily communication with Indonesian counterparts (ex-convicted terrorists, government officials, NGOs, etc.)
-        * Translation (Indonesian-English and vice versa)
-        
-        
+    description: Research assistant: data collection. Responsibilites will grow as the research progresses.
+    
   - title: Tutor
     company: Waseda University
     company_url: 'https://www.waseda.jp/inst/aw/en/about/what'
@@ -42,6 +37,19 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: Academic writing tutor.
+        
+        
+  - title: Part-time
+    company: Accept International 
+    company_url: 'https://accept-int.org/en/'
+    location: Tokyo, Japan
+    date_start: '2020-06-01'
+    date_end: '2021-04-30'
+    description: |2-
+        Responsibilities include:
+        
+        * PIC of daily communication with Indonesian counterparts (ex-convicted terrorists, government officials, NGOs, etc.)
+        * Translation (Indonesian-English and vice versa)
     
     
   - title: Analyst
