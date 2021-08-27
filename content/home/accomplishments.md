@@ -25,9 +25,17 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2021-08-01"
+  description: ""
+  organization: University of Essex
+  organization_url: https://essexsummerschool.com
+  title: Quantitative Methods for Causal Inference and Policy Evaluation Course
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2020-08-01"
   description: ""
-  organization: Essex University
+  organization: University of Essex
   organization_url: https://essexsummerschool.com
   title: Spatial Econometrics Course
   url: ""
