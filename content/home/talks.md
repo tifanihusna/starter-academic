@@ -8,7 +8,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 120
 
 title: 'Talks & Presentations'
 subtitle:
@@ -58,9 +58,9 @@ item:
   # Choose how many pages you would like to offset by
  # offset: 0
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  # order: desc
 
-design:
+# design:
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
