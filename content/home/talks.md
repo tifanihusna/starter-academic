@@ -1,17 +1,17 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-active: false
+# widget: pages
+# active: false
 
 # This file represents a page section.
-headless: true
+# headless: true
 
 # Order that this section appears on the page.
-weight: 120
+# weight: 120
 
-title: 'Talks & Presentations'
-subtitle:
+# title: 'Talks & Presentations'
+# subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
