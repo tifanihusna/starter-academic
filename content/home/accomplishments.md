@@ -41,14 +41,6 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "2020-04-01"
-  description: ""
-  organization: edX
-  organization_url: https://www.edx.org
-  title: "Data Science: R Basics"
-  url: https://www.edx.org/course/data-science-r-basics
-- certificate_url: ""
-  date_end: ""
   date_start: "2019-09-01"
   description: "Essay Title: Should Life Insurance Companies be More Social? An Analysis of the Impact of Social Media Usage on the Performance of Indonesian Life Insurance Companies"
   organization: FALIA 
