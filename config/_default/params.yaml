@@ -21,19 +21,19 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: tifanihsiregar@aoni.waseda.jp
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/tifaniuna'
-  - icon: facebook
-    icon_pack: fab
-    name: DM Me
-    link: 'https://www.facebook.com/tifanihusna/'
-  - icon: instagram
-    icon_pack: fab
-    name: DM Me
-    link: 'https://www.instagram.com/tifaniuna/'
+# contact_links:
+ # - icon: twitter
+ #   icon_pack: fab
+ #   name: DM Me
+ #   link: 'https://twitter.com/tifaniuna'
+ # - icon: facebook
+ #   icon_pack: fab
+ #   name: DM Me
+ #   link: 'https://www.facebook.com/tifanihusna/'
+ # - icon: instagram
+ #   icon_pack: fab
+ #   name: DM Me
+ #   link: 'https://www.instagram.com/tifaniuna/'
 
 # Site header
 
