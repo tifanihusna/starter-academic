@@ -6,20 +6,22 @@ title: Tifani Husna Siregar
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Economics
+role: Assistant Professor, School of Political Science and Economics, Waseda University
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Waseda University
-  url: https://www.waseda.jp/fpse/gse/en/
+  url: https://www.waseda.jp/fpse/faculty-en/2022/04/01/1765/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include topics in labor economics, particularly minimum wages and it's impact on labor market outcomes.
 
 # Experience to show in About widget
 Work experience:
-- 2020 - current: Tutor - Writing Center, Waseda University
-- 2020- current: Indonesian team - Accept International, Japan
+- 2022 - current: Assistant Professor, School of Political Science and Economics, Waseda University
+- 2021 - current: Research Assistant, Asian Development Bank Institute
+- 2020 - 2021: Tutor - Writing Center, Waseda University
+- 2020- 2021: Indonesian team - Accept International, Japan
 - 2014 - 2016 : Analyst - MUFG Bank, Jakarta
 
 # Education to show in About widget
@@ -27,7 +29,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Waseda University
-    year: Ongoing
+    year: 2022
   - course: Master of Arts in Economics
     institution: Waseda University
     year: 2014
