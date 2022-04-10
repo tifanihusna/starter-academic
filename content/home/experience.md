@@ -28,7 +28,7 @@ experience:
     location: Tokyo, Japan
     date_start: '2022-04-01'
     date_end: ''
-    description: Assistant Professor
+    description: Assistant Professor, School of Political Science and Economics
 
   - title: Research Assistant
     company: Asian Development Bank Institute
