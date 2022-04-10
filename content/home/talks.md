@@ -34,8 +34,7 @@ item:
   organization_url: ""
   title: "Investigating the Effects of Minimum Wages on Employment, Unemployment, and Labor Participation in Java Indonesia: A Dynamic Spatial Panel Approach"
   url: https://youtu.be/OCAF0Y8fg5Q
-
-
+  
 
 # Accomplishments. <-- ini aku tambahin sendiri biar ngikutin format page accomplishments
 #   Add/remove as many `item` blocks below as you like.
