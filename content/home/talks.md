@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2020-04-23"
   description: ""
-  organization: "The Conversation Indonesia" 
+  organization: "Program Pascasarjana Ilmu Ekonomi, IPB University" 
   organization_url: ""
   title: "Investigating the Effects of Minimum Wages on Employment, Unemployment, and Labor Force Participation in Indonesia: A Dynamic Spatial Panel Approach"
   url: https://youtu.be/OCAF0Y8fg5Q
