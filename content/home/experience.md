@@ -22,23 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
-    company: Graduate School of Economics Waseda University
-    company_url: 
+  - title: Assistant Professor
+    company: Waseda University
+    company_url: 'https://www.waseda.jp/fpse/pse/en/about/faculty/' 
     location: Tokyo, Japan
-    date_start: '2021-05-24'
+    date_start: '2022-04-01'
+    date_end: ''
+    description: Assistant Professor
+
+  - title: Research Assistant
+    company: Asian Development Bank Institute
+    company_url: 'https://www.adb.org/adbi/main' 
+    location: Tokyo, Japan
+    date_start: '2021-10-01'
     date_end: ''
     description: |2-
         Research assistant: 
-        * Data collection. Responsibilites will grow as the research progresses.
+        * Project: Analyzing Infrastructure Impacts in Asia Through Big Data: Socioeconomic Spillover Assessment
+        * Project: Resilient Compensation and Restitution for Post-Disaster Recovery in Asia and the Pacific 
     
   - title: Tutor
     company: Waseda University
     company_url: 'https://www.waseda.jp/inst/aw/en/about/what'
     location: Tokyo, Japan
     date_start: '2020-09-01'
-    date_end: ''
-    description: Academic writing tutor.
+    date_end: '2021-09-30'
+    description: Academic writing tutor
         
         
   - title: Part-time
@@ -49,7 +58,6 @@ experience:
     date_end: '2021-04-30'
     description: |2-
         Responsibilities include:
-        
         * PIC of daily communication with Indonesian counterparts (ex-convicted terrorists, government officials, NGOs, etc.)
         * Translation (Indonesian-English and vice versa)
     
@@ -62,7 +70,6 @@ experience:
     date_end: '2016-12-20'
     description: |2-
         Responsibilities include:
-        
         * Analyzing companies' financial statements
         * Analyzing trends in industries
         * Analyzing and modeling the Indonesian macroeconomic conditions
