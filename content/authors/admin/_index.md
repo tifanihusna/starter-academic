@@ -78,4 +78,4 @@ social:
 highlight_name: true
 ---
 
-Hello! I am Tifani Husna Siregar. I am an Assistant Professor at the School of Political Science and Economics, Waseda University. I am also a research assistant at the Asian Development Bank Institute. I received my PhD from the Graduate School of Economics, Waseda University. My dissertation focused on the impacts of minimum wages on the Indonesian labor market. Before going on my PhD, I worked as an analyst at the Bank of Tokyo-Mitsubishi UFJ, now known as MUFG Bank, in Jakarta. 
+Hello! I am Tifani Husna Siregar. I am an Assistant Professor at the School of Political Science and Economics, Waseda University. I am also a research assistant at the Asian Development Bank Institute. I received my PhD from the Graduate School of Economics, Waseda University. My dissertation focused on the impacts of minimum wages on the Indonesian labor market. Before starting my PhD, I worked as an analyst at the Bank of Tokyo-Mitsubishi UFJ, now known as MUFG Bank, in Jakarta. 
