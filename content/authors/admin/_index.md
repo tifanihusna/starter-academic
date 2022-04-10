@@ -32,10 +32,7 @@ education:
     year: 2022
   - course: Master of Arts in Economics
     institution: Waseda University
-    year: 2014
-  - course: Japanese Language
-    institution: Tokyo Japanese Language Education Center
-    year: 2012  
+    year: 2014 
   - course: Bachelor in Economics and Development Studies
     institution: Bogor Agricultural University
     year: 2010
@@ -48,21 +45,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/tifaniuna
+# - icon: twitter
+ # icon_pack: fab
+ # link: https://twitter.com/tifaniuna
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   # icon_pack: fas
   # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # - icon: github
   # icon_pack: fab
   # link: https://github.com/gcushen
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/tifanihusna
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/tifaniuna/
+#- icon: facebook
+ # icon_pack: fab
+ # link: https://www.facebook.com/tifanihusna
+# - icon: instagram
+ # icon_pack: fab
+ # link: https://www.instagram.com/tifaniuna/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/tifani-husna-siregar-17850525/
