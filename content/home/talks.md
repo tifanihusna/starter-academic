@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2022-05-18"
+  description: "Paper with Prof. Naoyuki Yoshino, Deepanshu Agarwal, Dr. Dina Azghaliyeva, Dr. KE Seetharam"
+  organization: "Asian Development Bank Institute"
+  organization_url: "https://www.adb.org/adbi/main"
+  title: "An Empirical Evidence and Proposal on the Spillover Effects of Information and Communication Technology Infrastructure in India"
+  url: https://www.adb.org/news/events/adbi-virtual-workshop-on-analyzing-infrastructure-impacts-in-asia-through-big-data-socioeconomic-spillover-assessment#event-presentations 
+- certificate_url: ""
+  date_end: ""
   date_start: "2022-04-12"
   description: ""
   organization: "QuaRCS network"
