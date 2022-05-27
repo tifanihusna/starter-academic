@@ -42,7 +42,7 @@ experience:
         * Project: Resilient Compensation and Restitution for Post-Disaster Recovery in Asia and the Pacific 
     
   - title: Tutor
-    company: Waseda University
+    company: Writing Center, Global Education Center, Waseda University
     company_url: 'https://www.waseda.jp/inst/aw/en/about/what'
     location: Tokyo, Japan
     date_start: '2020-09-01'
@@ -50,7 +50,7 @@ experience:
     description: Academic writing tutor
         
         
-  - title: Part-time
+  - title: PIC of Daily Communications with Indonesian Counterparts (part-time)
     company: Accept International 
     company_url: 'https://accept-int.org/en/'
     location: Tokyo, Japan
@@ -62,7 +62,7 @@ experience:
         * Translation (Indonesian-English and vice versa)
     
     
-  - title: Analyst
+  - title: Corporate Credit Analyst -  Research Analyst
     company: Bank of Tokyo-Mitsubishi UFJ 
     company_url: 'https://www.mufg.co.id/'
     location: Jakarta, Indonesia
