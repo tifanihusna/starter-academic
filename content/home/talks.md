@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2022-04-12"
+  description: ""
+  organization: "QuaRCS network"
+  organization_url: "https://quarcs-lab.org/"
+  title: "Investigating the Effects of Minimum Wages on Employment, Unemployment, and Labor Force Participation in Indonesia: A Dynamic Spatial Panel Approach"
+  url: 
+- certificate_url: ""
+  date_end: ""
   date_start: "2020-08-26"
   description: ""
   organization: "Forum Kajian Pembangunan, ANU Indonesian Project"
