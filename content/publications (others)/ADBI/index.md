@@ -38,5 +38,5 @@ featured: true
 # Accepted Manuscript
 links:
   - name: ADBI Page
-    url: '[https://www.tandfonline.com/doi/full/10.1080/00074918.2021.1914817](https://www.adb.org/publications/an-empirical-evidence-and-proposal-on-the-spillover-effects-of-information-and-communication-technology-infrastructure-in-india)'
+    url: '[https://www.adb.org/publications/an-empirical-evidence-and-proposal-on-the-spillover-effects-of-information-and-communication-technology-infrastructure-in-india]'
 ---
