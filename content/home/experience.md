@@ -35,7 +35,7 @@ experience:
     company_url: 'https://www.adb.org/adbi/main' 
     location: Tokyo, Japan
     date_start: '2021-10-01'
-    date_end: ''
+    date_end: '2022-07-29'
     description: |2-
         Research assistant: 
         * Project: Analyzing Infrastructure Impacts in Asia Through Big Data: Socioeconomic Spillover Assessment
