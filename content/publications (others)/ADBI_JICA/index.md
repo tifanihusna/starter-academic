@@ -5,14 +5,14 @@ title: "Seven Steps to Examine Urban Transport Finance with Spillover Effects fr
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- 	Tomoyoshi Suzuki
-- 	Takehiro Kawahashi
-- 	Keisuke Tanaka
-- 	Yuki Fujita
-- 	Kazuki Yoshioka
-- 	KE Seetharam
-- 	Naoyuki Yoshino
-- 	admin
+- Tomoyoshi Suzuki
+- Takehiro Kawahashi
+- Keisuke Tanaka
+- Yuki Fujita
+- Kazuki Yoshioka
+- KE Seetharam
+- Naoyuki Yoshino
+- admin
 
 
 date: "2022-06-30"
