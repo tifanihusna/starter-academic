@@ -13,7 +13,7 @@ authors:
 
 
 date: "2022-07-29"
-doi: ""
+doi: "10.56506/DWEH4685"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
