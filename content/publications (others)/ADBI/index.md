@@ -28,23 +28,7 @@ publication_types: ["3"]
 publication: In *ADBI Working Paper* No. 1330 
 publication_short: In *ADBI Working Paper* No. 1330 
 
-abstract: The COVID-19 pandemic highlights the importance of information and communications
-technology (ICT) not only for the economy but also for human well-being. However, the
-investment gap in ICT infrastructure has been growing and is expected to reach more than
-$30 billion by 2040. We argue that one of the ways to attract private sector involvement in
-ICT infrastructure is by creating a steady stream of income for the investors. We quantify the
-spillover effects of mobile network on tax revenues, using annual state-level data for 2005 to
-2016 from India across all states. Using simple Fixed Effect (FE) as well as Fixed Effect (FE)
-Two-Stage Least-Squares (2SLS) estimations, we show that the rise in the number of mobile
-network subscribers is associated with an increase in the amount of regional tax revenues.
-On average, an increase in the number of The Global System for Mobile Communications
-(GSM) subscribers per capita by 1 percentage point is expected to raise annual state tax
-revenues per capita by ₹134 (3% of average annual state tax revenue per capita in 2016).
-The number of GSM subscribers affect tax revenues through increased economic activities,
-as shown by our 2SLS estimation results. The results of this study justify our proposal to
-share the increased tax revenues with the investors to create a steady stream of income for
-investors. The findings of this study also support the increased support for the development
-of digital and physical infrastructure in the national budget of India for 2022–2023.
+abstract: The COVID-19 pandemic highlights the importance of information and communication technology (ICT) not only for the economy but also for human well-being. However, the investment gap in ICT infrastructure has been growing and is expected to reach more than $30 billion by 2040. We argue that one of the ways to attract private sector involvement in ICT infrastructure is by creating a steady stream of income for the investors. We quantify the spillover effects of mobile network on tax revenues, using annual state-level data for 2005 to 2016 from India across all states. Using simple fixed effect (FE) as well as fixed effect (FE) two-stage least-squares (2SLS) estimations, we show that the rise in the number of mobile network subscribers is associated with an increase in the amount of regional tax revenues. On average, an increase in the number of the Global System for Mobile Communications (GSM) subscribers per capita by 1 percentage point is expected to raise annual state tax revenues per capita by ₹134 (3% of average annual state tax revenue per capita in 2016). The number of GSM subscribers affect tax revenues through increased economic activities, as shown by our 2SLS estimation results. The results of this study justify our proposal to share the increased tax revenues with the investors to create a steady stream of income for investors. The findings of this study also support the increased support for the development of digital and physical infrastructure in the national budget of India for 2022–2023.
 
 tags: []
 
