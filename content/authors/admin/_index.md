@@ -78,4 +78,4 @@ social:
 highlight_name: true
 ---
 
-Hello! I am Tifani Husna Siregar. I am an Assistant Professor at the School of Political Science and Economics, Waseda University. I received my PhD from the Graduate School of Economics, Waseda University. My dissertation focused on the impacts of minimum wages on the Indonesian labor market.
+Hello! I am Tifani Husna Siregar. I am currently based in Khobar, Saudi Arabia. Before relocating here, I was an Assistant Professor at the School of Political Science and Economics, Waseda University. I was also working as a research associate at the Asian Development Bank Institute. I received my PhD from the Graduate School of Economics, Waseda University. My dissertation focused on the impacts of minimum wages on the Indonesian labor market. Some of my works have been published in reputable peer-reviewed international journals, such as Bulletin of Indonesian Economic Studies, Transportation Research Part A: Policy and Practice, and Journal of the Asia Pacific Economy. 
