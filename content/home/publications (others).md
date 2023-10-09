@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Publications (others:book chapters, working papers, policy briefs)
-subtitle: ''
+title: Publications
+subtitle: 'book chapters, working papers, policy briefs'
 
 content:
   # Page type to display. E.g. post, talk, publication...
