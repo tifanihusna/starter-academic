@@ -24,7 +24,8 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *Bulletin of Indonesian Economic Studies* Vol. 58, 2022
 publication_short: In *Bulletin of Indonesian Economic Studies*
-abstract: Preprint: Using district-level data for urban areas in Java, we assess the impact of minimum wages on formal- and informal-sector employment, unemployment and labour participation. We employ the spatial Durbin model for our estimation and allow labour markets to be spatially correlated across districts. Our findings suggest that a minimum-wage rise affects mainly the local labour market where the minimum-wage increase occurs. The spillover effects of a minimum-wage increase on neighbouring districts are negligible, except for the impact on labour participation. The results of this study highlight the need to account for spatial dependence when modelling formal-sector employment, unemployment and labour participation, as we found those variables to be geographically correlated, at least across districts in Java. 
+
+abstract:Preprint:Using district-level data for urban areas in Java, we assess the impact of minimum wages on formal- and informal-sector employment, unemployment and labour participation. We employ the spatial Durbin model for our estimation and allow labour markets to be spatially correlated across districts. Our findings suggest that a minimum-wage rise affects mainly the local labour market where the minimum-wage increase occurs. The spillover effects of a minimum-wage increase on neighbouring districts are negligible, except for the impact on labour participation. The results of this study highlight the need to account for spatial dependence when modelling formal-sector employment, unemployment and labour participation, as we found those variables to be geographically correlated, at least across districts in Java. 
 
 tags: []
 
