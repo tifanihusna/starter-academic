@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Publications (others)
+title: Publications (others: book chapters, working papers, policy briefs)
 subtitle: ''
 
 content:
