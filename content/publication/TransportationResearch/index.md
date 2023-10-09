@@ -6,12 +6,12 @@ title: "Exploring Japan’s older adults mobility challenges and the potential r
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Andante Hadi Pandyaswargo
-- Tifani Husna Siregar
+- **Tifani Husna Siregar**
 - Hiroshi Onoda
 
 
 date: "2023-10-01"
-doi: ""
+doi: "https://doi.org/10.1016/j.tra.2023.103818"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -35,7 +35,7 @@ featured: true
 
 # Accepted Manuscript
 links:
-  - name: Journal Page
+  - name: Journal Page (Open Access)
     url: 'https://www.sciencedirect.com/science/article/pii/S0965856423002380'
 ---
 
