@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.waseda.jp/fpse/pse/en/about/faculty/' 
     location: Tokyo, Japan
     date_start: '2022-04-01'
-    date_end: ''
+    date_end: '2023-04-01'
     description: Assistant Professor, School of Political Science and Economics
 
   - title: Research Assistant
