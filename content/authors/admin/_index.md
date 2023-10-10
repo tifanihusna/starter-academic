@@ -6,7 +6,7 @@ title: Tifani Husna Siregar
 superuser: true
 
 # Role/position/tagline
-role: Former Assistant Professor, School of Political Science and Economics, Waseda University and Research Assistant, Asian Development Bank Institute
+Former Assistant Professor, School of Political Science and Economics, Waseda University and Research Assistant, Asian Development Bank Institute
 
 # Organizations/Affiliations to show in About widget
 organizations:
