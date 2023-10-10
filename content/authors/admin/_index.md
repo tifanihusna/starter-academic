@@ -6,6 +6,7 @@ title: Tifani Husna Siregar
 superuser: true
 
 # Role/position/tagline
+Role:
 - "Former Assistant Professor, School of Political Science and Economics, Waseda University" 
 - "Research Assistant, Asian Development Bank Institute"
 
