@@ -7,8 +7,7 @@ superuser: true
 
 # Role/position/tagline
 Role:
-- "Former Assistant Professor, School of Political Science and Economics, Waseda University" 
-- "Research Assistant, Asian Development Bank Institute"
+- "Former Assistant Professor, School of Political Science and Economics, Waseda University and Research Assistant, Asian Development Bank Institute"
 
 # Organizations/Affiliations to show in About widget
 organizations: Waseda University
