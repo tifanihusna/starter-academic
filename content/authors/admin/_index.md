@@ -11,7 +11,6 @@ Former Assistant Professor, School of Political Science and Economics, Waseda Un
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Waseda University
-  url: https://www.waseda.jp/fpse/faculty-en/2022/04/01/1765/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include topics in labor economics, particularly minimum wages and its impact on labor market outcomes.
