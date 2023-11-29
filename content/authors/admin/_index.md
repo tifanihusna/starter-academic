@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tifani Husna Siregar
+Title: Tifani Husna Siregar
 
 # Is this the primary user of the site?
 superuser: true
@@ -61,11 +61,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/tifani-husna-siregar-17850525/
-
 # Link to a PDF of your resume/CV. To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: starter-academic/static/media/Resume_Nov_23.pdf
+   link: #starter-academic/static/media/Resume_Nov_23.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
