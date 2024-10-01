@@ -6,7 +6,7 @@
   superuser: true
 
 # Role/position/tagline
-  Role: Former Assistant Professor, School of Political Science and Economics, Waseda University and Research Assistant, Asian Development Bank Institute
+  Role: Postdoctoral Fellow, King Fahd University of Petroleum and Minerals
 
 # Organizations/Affiliations to show in About widget
 # organizations: Waseda University
