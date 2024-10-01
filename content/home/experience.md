@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Fellow
+    company: King Fahd University of Petroleum and Minerals
+    company_url: 'https://ri.kfupm.edu.sa/irc-fde' 
+    location: Dhahran, Kingdom of Saudi Arabia
+    date_start: '2024-10-01'
+    date_end: ''
+    description: Postdoctoral Fellow, International Research Center, Finance and Digital Economy
+    
   - title: Assistant Professor
     company: Waseda University
     company_url: 'https://www.waseda.jp/fpse/pse/en/about/faculty/' 
@@ -73,16 +81,7 @@ experience:
         * Analyzing companies' financial statements
         * Analyzing trends in industries
         * Analyzing and modeling the Indonesian macroeconomic conditions
-        * Writing and presenting reports on industries and Indonesian economy both within the bank and to the banks' clients.
-
-
-  - title: Intern
-    company: Strategic Decision Initiative 
-    company_url: 'http://www.sdigrp.com/en/'
-    location: Tokyo, Japan
-    date_start: '2014-02-01'
-    date_end: '2014-03-31'
-    description: Internet research and phone survey to companies located in Indonesia.
+        * Writing and presenting reports on industries and the Indonesian economy both within the bank and to clients.
     
     
   - title: Intern
