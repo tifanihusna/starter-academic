@@ -12,29 +12,29 @@
 # organizations: Waseda University
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include topics in labor economics, particularly minimum wages and its impact on labor market outcomes.
+  bio: My research interests include topics in labor economics, particularly minimum wages and its impact on labor market outcomes.
 
 # Experience to show in About widget
-Work experience:
-- 2024 - current: Postdoctoral Fellow, King Fahd University of Petroleum and Minerals 
-- 2022 - 2023: Assistant Professor, School of Political Science and Economics, Waseda University
-- 2021 - 2022: Research Assistant, Asian Development Bank Institute
-- 2020 - 2021: Tutor - Writing Center, Waseda University
-- 2020- 2021: Indonesian team - Accept International, Japan
-- 2014 - 2016: Analyst - MUFG Bank, Jakarta
+  Work experience:
+  - 2024 - current: Postdoctoral Fellow, King Fahd University of Petroleum and Minerals 
+  - 2022 - 2023: Assistant Professor, School of Political Science and Economics, Waseda University
+  - 2021 - 2022: Research Assistant, Asian Development Bank Institute
+  - 2020 - 2021: Tutor - Writing Center, Waseda University
+  - 2020- 2021: Indonesian team - Accept International, Japan
+  - 2014 - 2016: Analyst - MUFG Bank, Jakarta
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Economics
-    institution: Waseda University
-    year: 2022
-  - course: Master of Arts in Economics
-    institution: Waseda University
-    year: 2014 
-  - course: Bachelor in Economics and Development Studies
-    institution: Bogor Agricultural University
-    year: 2010
+  education:
+    courses:
+    - course: PhD in Economics
+      institution: Waseda University
+      year: 2022
+    - course: Master of Arts in Economics
+      institution: Waseda University
+      year: 2014 
+    - course: Bachelor in Economics and Development Studies
+      institution: Bogor Agricultural University
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -75,4 +75,4 @@ social:
 highlight_name: true
 ---
 
-Hello! I am Tifani. I am a Postdoctoral Fellow at the King Fahd University of Petroleum and Minerals, Saudi Arabia. Before relocating to the Kingdom, I was an Assistant Professor at the School of Political Science and Economics, Waseda University. I was also a research associate at the Asian Development Bank Institute. I received my PhD from the Graduate School of Economics, Waseda University. My dissertation focused on the impacts of minimum wages on the Indonesian labor market. Some of my works have been published in reputable peer-reviewed international journals, such as Bulletin of Indonesian Economic Studies, Transportation Research Part A: Policy and Practice, and Journal of the Asia Pacific Economy. 
+Hello! I am Tifani. I am a Postdoctoral Fellow at the King Fahd University of Petroleum and Minerals, Saudi Arabia. Before relocating to the Kingdom I was an Assistant Professor at the School of Political Science and Economics, Waseda University. I was also a research associate at the Asian Development Bank Institute. I received my PhD from the Graduate School of Economics, Waseda University. My dissertation focused on the impacts of minimum wages on the Indonesian labor market. Some of my works have been published in reputable peer-reviewed international journals, such as Bulletin of Indonesian Economic Studies, Transportation Research Part A: Policy and Practice, and Journal of the Asia Pacific Economy. 
