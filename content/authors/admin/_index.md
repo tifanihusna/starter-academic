@@ -1,12 +1,12 @@
 ---
 # Display name
-Title: Tifani Husna Siregar
+  Title: Tifani Husna Siregar
 
 # Is this the primary user of the site?
-superuser: true
+  superuser: true
 
 # Role/position/tagline
-Role: Former Assistant Professor, School of Political Science and Economics, Waseda University and Research Assistant, Asian Development Bank Institute
+  Role: Former Assistant Professor, School of Political Science and Economics, Waseda University and Research Assistant, Asian Development Bank Institute
 
 # Organizations/Affiliations to show in About widget
 # organizations: Waseda University
