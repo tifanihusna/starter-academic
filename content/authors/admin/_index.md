@@ -1,6 +1,6 @@
 ---
 # Display name
-Title: Tifani Husna Siregar
+  Title: Tifani Husna Siregar
 
 # Is this the primary user of the site?
 superuser: true
