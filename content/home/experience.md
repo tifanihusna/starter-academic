@@ -28,7 +28,7 @@ experience:
     location: Dhahran, Kingdom of Saudi Arabia
     date_start: '2024-10-01'
     date_end: ''
-    description: Postdoctoral Fellow, International Research Center, Finance and Digital Economy
+    description: Postdoctoral Fellow, Interdisciplinary Research Center for Finance and Digital Economy
     
   - title: Assistant Professor
     company: Waseda University
