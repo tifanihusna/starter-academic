@@ -26,12 +26,12 @@ main:
     url: '#contact'
     weight: 60
   - name: Resume
-    url: '#static/uploads/Tifani Husna Siregar CV 2025.pdf'
+    url: https://drive.google.com/file/d/1BWtkXaD6JM9NE_laxelbr-A-pebptagW/view?usp=drive_link
     weight: 70
     
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: '#static/uploads'
-    url: static/uploads/Tifani Husna Siregar CV 2025.pdf
-    weight: 70
+  #- name: '#static/uploads'
+   # url: static/uploads/Tifani Husna Siregar CV 2025.pdf
+    #weight: 70
