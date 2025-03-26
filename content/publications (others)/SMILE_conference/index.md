@@ -24,7 +24,7 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-# publication: 
+publication: In Transportation Research Procedia, Volume 84, 2025, Pages 227-234
 # publication_short: 
 
 abstract: Jakarta has been serving as the capital city of the world’s 4th most populated country in the world, Indonesia, for 75 years. Recently,
