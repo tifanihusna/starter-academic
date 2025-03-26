@@ -28,8 +28,7 @@ publication_types: ["1"]
 publication: In Transportation Research Procedia, Volume 84, 2025, Pages 227-234
 publication_short: 
 
-abstract:|
-  Jakarta has been serving as the capital city of the world’s 4th most populated country in the world, Indonesia, for 75 years.
+abstract: Jakarta has been serving as the capital city of the world’s 4th most populated country in the world, Indonesia, for 75 years.
   Recently, approximately 3 million people from the outskirts of the city commute daily into the city, which already hosts 11 million people.
   The city has been suffering from chronic traffic congestion. Various policy interventions and infrastructural developments have
   been introduced to ease this problem. Since 2014, the Jakarta city government has attempted to transform the city into a smart city.
