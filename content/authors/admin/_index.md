@@ -6,13 +6,13 @@
   superuser: true
 
 # Role/position/tagline
-  Role: Postdoctoral Fellow, King Fahd University of Petroleum and Minerals
+  Role: Postdoctoral Fellow, Interdisciplinary Research Center for Finance and Digital Economy, King Fahd University of Petroleum and Minerals
 
 # Organizations/Affiliations to show in About widget
 # organizations: Waseda University
 
 # Short bio (displayed in user profile at end of posts)
-  bio: My research interests include topics in labor economics, particularly minimum wages and its impact on labor market outcomes.
+  bio: My research interests include topics in labor economics. Currently, I am also working on the economic effects of fintech. 
 
 # Experience to show in About widget
   Work experience:
@@ -75,4 +75,4 @@ social:
 highlight_name: true
 ---
 
-Hello! I am Tifani. I am a Postdoctoral Fellow at the King Fahd University of Petroleum and Minerals, Saudi Arabia. Before relocating to the Kingdom, I was an Assistant Professor at Waseda University, Japan. I was also a research associate at the Asian Development Bank Institute. I received my PhD from the Graduate School of Economics, Waseda University. Some of my works have been published in reputable peer-reviewed international journals, such as Bulletin of Indonesian Economic Studies, Transportation Research Part A: Policy and Practice, and Journal of the Asia Pacific Economy. 
+Hello! I am Tifani, a Postdoctoral Fellow at the King Fahd University of Petroleum and Minerals, Saudi Arabia. Before relocating to the Kingdom, I was an Assistant Professor at Waseda University, Japan. I was also a research associate at the Asian Development Bank Institute. I received my PhD from the Graduate School of Economics, Waseda University. Some of my works have been published in reputable peer-reviewed international journals, such as Bulletin of Indonesian Economic Studies, Transportation Research Part A: Policy and Practice, and Journal of the Asia Pacific Economy. 
