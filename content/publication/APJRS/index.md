@@ -10,7 +10,7 @@ authors:
   - Admin
   - Carlos Mendez
 
-date: "2025"
+date: "2025-12-21"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,8 +23,8 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 'In *Asia-Pacific Journal of Regional Science*, Forthcoming'
-publication_short: 'In *APJRS*'
+publication: 'In *Asia-Pacific Journal of Regional Science* (Forthcoming)'
+publication_short: 'In *Asia-Pacific Journal of Regional Science* (Forthcoming)'
 
 abstract: >-
   This study examined the effect of cross-district minimum wage differentials on workers’
