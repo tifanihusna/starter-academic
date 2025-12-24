@@ -10,7 +10,7 @@ authors:
   - Admin
   - Carlos Mendez
 
-date: 2025-12-24
+date: "2025-12-24"
 
 # Hide the (2025) in lists and on the page
 show_date: false
