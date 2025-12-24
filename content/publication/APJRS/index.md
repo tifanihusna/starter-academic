@@ -10,13 +10,13 @@ authors:
   - Admin
   - Carlos Mendez
 
-date: " "
+date: "2025-12-24"
 
 # Hide the (2025) in lists and on the page
-# show_date: false
+show_date: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: " "
+publishDate: "2025-12-24"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
