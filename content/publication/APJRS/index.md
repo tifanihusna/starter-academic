@@ -10,11 +10,11 @@ authors:
   - Admin
   - Carlos Mendez
 
-date: "2025-12-21"
-doi: ""
+date: 2025-12-24
 
 # Hide the (2025) in lists and on the page
 show_date: false
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -23,11 +23,11 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]   # 3 = Preprint/Working Paper (you can still write “accepted” in publication field)
 
 # Publication name and optional abbreviated publication name.
-publication: 'In *Asia-Pacific Journal of Regional Science* (Forthcoming)'
-publication_short: 'In *Asia-Pacific Journal of Regional Science* (Forthcoming)'
+publication: 'In *Asia-Pacific Journal of Regional Science*, accepted (Forthcoming)'
+publication_short: 'In *Asia-Pacific Journal of Regional Science*, accepted (Forthcoming)'
 
 abstract: >-
   This study examined the effect of cross-district minimum wage differentials on workers’
