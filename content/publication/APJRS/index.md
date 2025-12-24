@@ -12,6 +12,8 @@ authors:
 
 date: "2025-12-24"
 
+status: accepted
+
 # Hide the (2025) in lists and on the page
 show_date: false
 
