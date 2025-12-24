@@ -13,6 +13,9 @@ authors:
 date: "2025-12-21"
 doi: ""
 
+# Hide the (2025) in lists and on the page
+show_date: false
+
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
 
