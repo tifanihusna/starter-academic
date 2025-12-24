@@ -1,14 +1,14 @@
 ---
-title: "Minimum Wage Differentials and Commuting Across Districts: Evidence from the
-Greater Jakarta Metropolitan Area"
+title: >-
+  Minimum Wage Differentials and Commuting Across Districts: Evidence from the
+  Greater Jakarta Metropolitan Area
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Admin
-- Carlos Mendez
-
+  - Admin
+  - Carlos Mendez
 
 date: "Forthcoming"
 doi: ""
@@ -23,24 +23,26 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Asia-Pacific Journal of Regional Science*, Forthcoming
-publication_short: In *APJRS*
+publication: 'In *Asia-Pacific Journal of Regional Science*, Forthcoming'
+publication_short: 'In *APJRS*'
 
-abstract: This study examined the effect of cross-district minimum wage differentials on workers’
-commuting probabilities in the pre-pandemic era of the Greater Jakarta Metropolitan
-Area (Jabodetabek). We found that minimum wages in cross-border districts, along
-with differentials between home and neighboring district minimum wages, significantly
-affect worker commuting probabilities. These findings highlighted important
-methodological considerations when analyzing labor survey data, as such data
-typically reflect workers’ residential locations rather than their employment sites.
-Furthermore, labor market policies implemented within specific jurisdictional
-boundaries may generate spillover effects into neighboring labor markets, particularly
-in regions characterized by high mobility. Overall, the evidence indicated that in an
-integrated urban region like Jabodetabek, statutory minimum-wage differences that
-arise directly from district administrative boundaries partly shape formal workers’
-commuting behavior, implying that these jurisdictional divisions and the cross-district
-wage incentives they create should be taken into account in minimum-wage policy
-design and evaluation
+abstract: >-
+  This study examined the effect of cross-district minimum wage differentials on workers’
+  commuting probabilities in the pre-pandemic era of the Greater Jakarta Metropolitan
+  Area (Jabodetabek). We found that minimum wages in cross-border districts, along
+  with differentials between home and neighboring district minimum wages, significantly
+  affect worker commuting probabilities. These findings highlighted important
+  methodological considerations when analyzing labor survey data, as such data
+  typically reflect workers’ residential locations rather than their employment sites.
+  Furthermore, labor market policies implemented within specific jurisdictional
+  boundaries may generate spillover effects into neighboring labor markets, particularly
+  in regions characterized by high mobility. Overall, the evidence indicated that in an
+  integrated urban region like Jabodetabek, statutory minimum-wage differences that
+  arise directly from district administrative boundaries partly shape formal workers’
+  commuting behavior, implying that these jurisdictional divisions and the cross-district
+  wage incentives they create should be taken into account in minimum-wage policy
+  design and evaluation
+
 tags: []
 
 # Display this page in the Featured widget?
@@ -48,9 +50,6 @@ featured: true
 
 # Accepted Manuscript
 # links:
-  # - name: Accepted Manuscript
-    # url: 'https://www.researchgate.net/publication/375891987_Regional_unemployment_dynamics_in_Indonesia_Serial_persistence_spatial_dependence_and_common_factors'
+#   - name: Accepted Manuscript
+#     url: 'https://www.researchgate.net/publication/375891987_Regional_unemployment_dynamics_in_Indonesia_Serial_persistence_spatial_dependence_and_common_factors'
 ---
-
-
-
