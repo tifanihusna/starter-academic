@@ -13,7 +13,7 @@ authors:
 date: " "
 
 # Hide the (2025) in lists and on the page
-show_date: false
+# show_date: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: " "
