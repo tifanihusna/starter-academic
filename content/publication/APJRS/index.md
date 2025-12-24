@@ -10,7 +10,7 @@ authors:
   - Admin
   - Carlos Mendez
 
-date: "Forthcoming"
+date: "2025"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
