@@ -8,7 +8,7 @@ organizations:
   - name: King Fahd University of Petroleum and Minerals
     url: 'https://ri.kfupm.edu.sa/irc-fde'
 
-bio: My research interests include topics in labor economics. Currently, I am also working on the economic effects of fintech.
+bio: My research interests include topics in labor markets, applied econometrics, including spatial econometrics, as well as the use of big data, especially GIS/satellite data. Currently, I am also working on the economic effects of fintech.
 
 education:
   courses:
