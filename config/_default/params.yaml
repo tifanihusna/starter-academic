@@ -25,19 +25,11 @@ twitter: ''
 # Contact (edit or remove options as required)
 email: tifani.siregar@kfupm.edu.sa
 
-# contact_links:
- # - icon: twitter
- #   icon_pack: fab
- #   name: DM Me
- #   link: 'https://twitter.com/tifaniuna'
- # - icon: facebook
- #   icon_pack: fab
- #   name: DM Me
- #   link: 'https://www.facebook.com/tifanihusna/'
- # - icon: instagram
- #   icon_pack: fab
- #   name: DM Me
- #   link: 'https://www.instagram.com/tifaniuna/'
+contact_links:
+  - icon: envelope
+    icon_pack: fas
+    name: tifanihusna@asagi.waseda.jp
+    link: 'mailto:tifanihusna@asagi.waseda.jp'
 
 # Site header
 
