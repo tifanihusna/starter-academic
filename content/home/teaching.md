@@ -15,7 +15,7 @@ date_format: Jan 2006
 experience:
   - title: Introduction to Econometrics
     company: Department of Accounting and Finance, King Fahd University of Petroleum and Minerals
-    company_url: 'https://cim.kfupm.edu.sa/'
+    company_url: 'https://kbs.kfupm.edu.sa/'
     location: Dhahran, Kingdom of Saudi Arabia
     date_start: '2025-01-01'
     date_end: '2025-12-31'
