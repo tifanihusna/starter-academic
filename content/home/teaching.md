@@ -15,12 +15,13 @@ date_format: Jan 2006
 experience:
   - title: Introduction to Econometrics
     company: Department of Accounting and Finance, King Fahd University of Petroleum and Minerals
-    company_url: 'https://ri.kfupm.edu.sa/irc-fde'
+    company_url: 'https://cim.kfupm.edu.sa/'
     location: Dhahran, Kingdom of Saudi Arabia
     date_start: '2025-01-01'
     date_end: '2025-12-31'
     description: |2-
         Undergraduate course. Delivered lectures and lab sessions using Stata.
+        Student evaluation: **9.34 / 10**.
 
   - title: Statistics 1
     company: School of Political Science and Economics, Waseda University
