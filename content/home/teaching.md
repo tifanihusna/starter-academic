@@ -27,8 +27,8 @@ experience:
     company: School of Political Science and Economics, Waseda University
     company_url: 'https://www.waseda.jp/fpse/pse/en/'
     location: Tokyo, Japan
-    date_start: '2022-09-01'
-    date_end: '2023-02-28'
+    date_start: '2022-04-01'
+    date_end: '2022-07-31'
     description: |2-
         Undergraduate course. Teaching Fellow — taught lab sessions using R.
 ---
