@@ -7,7 +7,7 @@ authors:
   - Carlos Mendez
 
 date: "2026-10-01"
-doi: "https://doi.org/10.1007/s41685-025-00415-4"
+doi: "https://doi.org/10.1016/j.econmod.2026.107687"
 
 publishDate: "2026-05-30"
 
@@ -24,6 +24,6 @@ featured: true
 
 links:
   - name: Journal Page
-    url: 'https://link.springer.com/article/10.1007/s41685-025-00415-4'
+    url: 'https://www.sciencedirect.com/science/article/abs/pii/S0264999326002166'
 ---
 
